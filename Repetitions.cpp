@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 #include<iostream>
 #include<string>
 using namespace std;
@@ -22,3 +26,7 @@ int main()
 }
 
 //Happy coding :)
+<<<<<<< Updated upstream
+=======
+//Happy coding :)
+>>>>>>> Stashed changes
